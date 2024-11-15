@@ -1,2 +1,2 @@
-# githu-demo
+# github-demo
 my first repository
